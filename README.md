@@ -37,7 +37,7 @@ we will write function for deal so that 2 cards are removed from deck of cards a
 6) We can use list to denotes dealers/players hand card
 
 
-when you play the above game via command
+# when you play the above game via command
 
 my_black_jack_game()
 
